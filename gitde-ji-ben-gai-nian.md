@@ -19,16 +19,16 @@ Repository之中保有了兩種資料：
 
 Git objects 總共為四種：
 
-1. 二進位大型物件\(Blobs\)
-2. 樹\(Trees\)
-3. 提交\(Commits\)
-4. 標籤\(Tags\)
+1. **二進位大型物件\(Blobs\)**
+2. **樹\(Trees\)**
+3. **提交\(Commits\)**
+4. **標籤\(Tags\)**
 
-利用這些物件，Git儲存了原始的檔案資料、歷史修改記錄、作者訊息、日期以及不同版本的訊息。
+利用這些物件，Git**儲存了原始的檔案資料、歷史修改記錄、作者訊息、日期以及不同版本的訊息**。
 
 ### Blobs
 
-Blob為binary large object的縮寫，此資料型態紀錄了檔案的每個版本，
+Blob為binary large object的縮寫，**此資料型態紀錄了檔案的每個版本**，
 
 ### Trees
 
