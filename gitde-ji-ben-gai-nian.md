@@ -34,6 +34,8 @@ Blob為binary large object的縮寫，**此資料型態紀錄了檔案的每個�
 
 樹狀物件用於**表示階層的目錄資訊**，並且記錄了blob的辨識碼、路徑名稱、提交時間及該目錄下的所有檔案及資訊。因為其樹狀結構而能夠利用遞迴參考其底下的子樹物件，因此建立出完整的檔案及目錄。
 
+![](/https:/git-scm.com/book/zh-tw/v2/Git-Internals-Git-Objects/Simple version of the Git data model..png)
+
 ### Commits
 
 ### Tags
