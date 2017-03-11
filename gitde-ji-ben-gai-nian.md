@@ -28,6 +28,8 @@ Git objects 總共為四種：
 
 ### Blobs
 
+Blob為binary large object的縮寫，此資料型態紀錄了檔案的每個版本，
+
 ### Trees
 
 ### Commits
