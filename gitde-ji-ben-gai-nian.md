@@ -13,7 +13,9 @@ Repository之中保有了兩種資料：
 1. 物件\(Objects\)：使在複製時能夠更有效率
 2. 索引\(indexes\)：為在該repository中暫存的訊息
 
+以上兩種資料都是被存放於隱藏目錄.git/底下。
 
+## Git Objects
 
 
 
