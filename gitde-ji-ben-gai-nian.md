@@ -19,7 +19,7 @@ Repository之中保有了兩種資料：
 
 Git objects 總共為四種：
 
-1. 二元大型物件\(Blobs\)
+1. 二進位大型物件\(Blobs\)
 2. 樹\(Trees\)
 3. 提交\(Commits\)
 4. 標籤\(Tags\)
